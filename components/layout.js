@@ -2,7 +2,7 @@ import Head from "next/head";
 import Link from "next/link";
 import Image from "next/image";
 
-import styles from "../styles/layout.module.css";
+import styles from "../styles/Layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 
 const name = "Ahmed Abdullah";
